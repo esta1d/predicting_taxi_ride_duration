@@ -32,5 +32,8 @@
 
 ## Зависимости и решение
 
+* **Python 11.x**
 * **Ноутбук с решением можно найти *[тут](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/taxi.ipynb)***
 * **Использованные *[библиотеки](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/requirements.txt)***
+
+##
